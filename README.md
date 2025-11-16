@@ -1,2 +1,2 @@
 # Long-Read-Assembly-Pipeline
-Long Read Genome Assembly Pipeline 
+Trying to build a pipeline for long read de-novo genome assembly primarily using PacBio Data. I will go through multiple whole genome assembly pipelines performed by different groups to learn and understand the steps and tools involoved. All the papers which I refer shall be listed. I will try to make multiple pipelines - only using PacBio hifi reads and HiC data and also a hybrid assembly pipelines using hifi reads plus illumina data
